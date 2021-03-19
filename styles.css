@@ -63,9 +63,6 @@ body {
 }
 
 .footer{
-  position: absolute;
-  bottom: 10px;
-  width: 100%;
   color: white;
 }
 
@@ -92,5 +89,10 @@ body {
   .btn{
     margin: 1%;
     border: 5px solid black;
+  }
+  .footer{
+    position: absolute;
+    bottom: 10px;
+    width: 100%;
   }
 }
