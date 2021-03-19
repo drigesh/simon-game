@@ -4,7 +4,7 @@ A Web-format of the famous game [Simon](https://en.wikipedia.org/wiki/Simon_(gam
 
 You can play it [**HERE**](https://drigesh.github.io/simon-game/) or copy the link ```https://drigesh.github.io/simon-game/ ```
 
-_ Let's check and score your remembering power or memory level._
+_Let's check and score your remembering power or memory level._
 
 ## Rules to play
 
