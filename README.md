@@ -1,10 +1,10 @@
 # Simon Game
 
-A Web-format of the famous game [Simon](https://en.wikipedia.org/wiki/Simon_(game)).
+A Web-format of the famous game [Simon](https://en.wikipedia.org/wiki/Simon_(game)). _Created using HTML, CSS and mainly JavaScript._
 
 You can play it [**HERE**](https://drigesh.github.io/simon-game/) or copy the link ```https://drigesh.github.io/simon-game/ ```
 
-_Let's check and score your remembering power or memory level._
+_**Let's check and score your remembering power or memory level.**_
 
 ## Rules to play
 
